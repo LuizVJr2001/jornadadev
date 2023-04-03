@@ -11,7 +11,8 @@ JavaScript,
 React,
 Firebase,
 
-
+## Abaixo temos algumas instruções do react sobre como instalar e rodar o projeto
+>Ainda vai faltar a integração com o banco de dados, mas eventualmente quando eu entender melhor sobre vou atualizar este readme novamente.
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
