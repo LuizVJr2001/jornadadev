@@ -1,8 +1,8 @@
-# Jornada Dev
+# tiktok-clone-ebac
 
 >Status do projeto: Finalizado
 
-Nesse projeto tem um clone de TikTok criado nas aulas do curso Jornada Full Stack fornecido gratuitamente pela EBAC
+Nesse projeto fiz um clone de TikTok criado nas aulas do curso Jornada Full Stack fornecido gratuitamente pela EBAC
 
 ## Tecnologias usadas
 HTML,
@@ -10,6 +10,7 @@ CSS,
 JavaScript,
 React,
 Firebase,
+
 
 ## Abaixo temos algumas instruções do react sobre como instalar e rodar o projeto
 >Ainda vai faltar a integração com o banco de dados, mas eventualmente quando eu entender melhor sobre vou atualizar este readme novamente.
