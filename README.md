@@ -4,6 +4,8 @@
 
 Nesse projeto fiz um clone de TikTok criado nas aulas do curso Jornada Full Stack fornecido gratuitamente pela EBAC
 
+####Projeto pode ser acessado no link https://tiktok---jornada-dev---ebac.web.app/
+
 ## Tecnologias usadas
 HTML,
 CSS,
